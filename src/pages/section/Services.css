@@ -1,0 +1,33 @@
+.title-service {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    font-size: 45px;
+    position: absolute;
+    top: 5%; 
+    left: 60%;
+    transform: translateX(-50%);
+    
+}
+
+.container-service {
+    padding: 150px;
+    padding-top: 268px;
+    border: 5px solid #000;
+    margin: 15px;
+
+}
+
+.container-service h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #000;
+    letter-spacing: 0.5px;
+    text-align: center;
+    background-color: #fff;
+    position: absolute;
+    top: 27%;
+}
+
+

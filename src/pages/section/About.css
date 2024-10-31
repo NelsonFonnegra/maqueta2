@@ -1,0 +1,26 @@
+.title {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    font-size: 45px;
+    position: absolute;
+    top: 5%; 
+    left: 60%;
+    transform: translateX(-50%);
+}
+
+.container-text {
+    width: 80%; 
+    max-width: 800px; 
+    margin: 20px auto 0; 
+    text-align: justify; 
+    font-size: 15px; 
+    line-height: 1.6;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.container-text p {
+    margin-bottom: 20px;
+}
